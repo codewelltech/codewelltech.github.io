@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "cat":"ng",
+        "title":"Components in Angular",
+        "url":"https://www.youtube.com/embed/fWiRlxP1G90",
+        "sc":false,
+        "info":["How to create component","How to register component","How to show component"]
+    },
+    {
+        "id":2,
+        "cat":"js",
+        "title":"Validate Form using JavaScript",
+        "url":"https://www.youtube.com/embed/YMBGvvE47I8",
+        "sc":true,
+        "info":["Create form using html","Style form using css","Validate using JS"]
+    },
+    {
+        "id":3,
+        "cat":"js",
+        "title":"Objects in Javascript",
+        "url":"https://www.youtube.com/embed/O84N2sSPzQI",
+        "sc":false,
+        "info":["Create Object","Various ways to create Object","Iterate Object"]
+    },
+    {
+        "id":4,
+        "cat":"json",
+        "title":"Learn JSON in 10 mins",
+        "url":"https://www.youtube.com/embed/GUQ8vwuBAU0",
+        "sc":false,
+        "info":["What is JSON","JSON Methods","JSON vs Javascript Object","JSON vs XML"]
+    },
+    {
+        "id":5,
+        "cat":"js",
+        "title":"Functions in Javascript",
+        "url":"https://www.youtube.com/embed/oPiZJ9xx78g",
+        "sc":false,
+        "info":["Callback functions","Arrow functions","Nested functions","function expressions"]
+    },
+    {
+        "id":6,
+        "cat":"js",
+        "title":"Object.assign() Method in JavaScript",
+        "url":"https://www.youtube.com/embed/t8Tamabyvzw",
+        "sc":false,
+        "info":["Introduction to Object.assign()","Using Object.assign()","Realtime scenario where Object.assign"]
+    },
+    {
+        "id":8,
+        "cat":"js",
+        "title":"3 Ways to Clone Objects in JavaScript",
+        "url":"https://www.youtube.com/embed/q0YZytQlL_w",
+        "sc":false,
+        "info":["Objects are reference type","using Object.assign()","using spread operator","using JSON approach"]
+    },
+    {
+        "id":9,
+        "cat":"hcj",
+        "title":"HTML CSS JavaScript For Beginners",
+        "url":"https://www.youtube.com/embed/W0mvgvYzSso",
+        "sc":false,
+        "info":["Some basics of HTML code","Applying style using css","Hide and show sections using JS"]
+    },
+    {
+        "id":10,
+        "cat":"js",
+        "title":"Arrays in JavaScript",
+        "url":"https://www.youtube.com/embed/YVFaLFIvPSc",
+        "sc":false,
+        "info":["Introduction to Arrays","Array methods","Iterating arrays"]
+    }   
+]
