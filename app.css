@@ -71,10 +71,12 @@ iframe{
 .loading{ 
         background-color: rgb(255, 254, 254);       
         box-shadow: 0px 0px 20px 3px #525858;
-        border-radius: 4px;
-        padding: 20px;      
+        border-radius: 4px; 
+        padding: 20px;        
         position: absolute;
-        z-index: 1;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
 }
 img{
     width: 100px;
@@ -191,10 +193,12 @@ ul li {
     .loading{ 
         background-color: rgb(255, 254, 254);       
         box-shadow: 0px 0px 20px 3px #525858;
-        border-radius: 4px;
-        padding: 20px;      
+        border-radius: 4px;  
+        padding: 20px;        
         position: absolute;
-        z-index: 1;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
     ul{
         padding-left: 20px;
