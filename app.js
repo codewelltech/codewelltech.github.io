@@ -46,12 +46,12 @@ function renderDataOnPage(data = []) {
     container.style.opacity=1;
 }
 
-window.addEventListener("resize",function(){
-    container.style.opacity=0;
-    setTimeout(() => {
-        container.style.opacity=1;
-    }, 100);
-});
+// window.addEventListener("resize",function(){
+//     container.style.opacity=0;
+//     setTimeout(() => {
+//         container.style.opacity=1;
+//     }, 100);
+// });
 // document.querySelector("#btnMode").addEventListener("click",function(){
 //     container.style.background="black";
 //     container.style.color="#fff";
