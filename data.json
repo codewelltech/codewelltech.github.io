@@ -1,11 +1,11 @@
 [
     {
         "id":1,
-        "cat":"ng",
-        "title":"Components in Angular",
-        "url":"https://www.youtube.com/embed/fWiRlxP1G90",
+        "cat":"js",
+        "title":"Hide and Show Div / Element using JavaScript Css",
+        "url":"https://www.youtube.com/embed/R-_TZb0_oJA",
         "sc":false,
-        "info":["How to create component","How to register component","How to show component"]
+        "info":["Hide element using JavaScript"," Why toggle() function ","Toggle() with boolean parameter"]
     },
     {
         "id":2,
@@ -18,26 +18,26 @@
     {
         "id":3,
         "cat":"js",
-        "title":"Objects in Javascript",
-        "url":"https://www.youtube.com/embed/O84N2sSPzQI",
-        "sc":false,
-        "info":["Create Object","Various ways to create Object","Iterate Object"]
+        "title":"How to Lazy Load Images using JavaScript",
+        "url":"https://www.youtube.com/embed/rENxM-2Ek9E",
+        "sc":true,
+        "info":["implement Lazy Loading","Intersection Observer API"," Adding Blur Effect"]
     },
     {
         "id":4,
-        "cat":"json",
-        "title":"Learn JSON in 10 mins",
-        "url":"https://www.youtube.com/embed/GUQ8vwuBAU0",
+        "cat":"css",
+        "title":"Create Beautiful and Responsive Cards with Flexbox CSS ",
+        "url":"https://www.youtube.com/embed/0T0GQmnVGZs",
         "sc":false,
-        "info":["What is JSON","JSON Methods","JSON vs Javascript Object","JSON vs XML"]
+        "info":["Create Cards -HTML","Style with Flexbox","Responsive Cards"]
     },
     {
         "id":5,
         "cat":"js",
-        "title":"Functions in Javascript",
-        "url":"https://www.youtube.com/embed/oPiZJ9xx78g",
+        "title":"This in JavaScript",
+        "url":"https://www.youtube.com/embed/dWZIPIc3szg",
         "sc":false,
-        "info":["Callback functions","Arrow functions","Nested functions","function expressions"]
+        "info":["What is this Keyword","this in Arrow Function"," Function Scope vs This Scope"]
     },
     {
         "id":6,
